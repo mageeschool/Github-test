@@ -6,5 +6,7 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Fukk yes!");
+        Console.WriteLine("Konemor!");
+        Console.WriteLine("Konemor!");
     }
 }

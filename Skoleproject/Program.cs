@@ -6,6 +6,5 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Fukk yes!");
-        Console.WriteLine("Hvor ble av denne?!");
     }
 }

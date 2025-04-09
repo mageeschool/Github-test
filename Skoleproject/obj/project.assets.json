@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fredr\\Skole\\Skoleprosjekt\\Skoleproject\\Skoleproject\\Skoleproject.csproj",
+      "projectUniqueName": "C:\\Users\\fredr\\testmappe\\Github-test\\Skoleproject\\Skoleproject.csproj",
       "projectName": "Skoleproject",
-      "projectPath": "C:\\Users\\fredr\\Skole\\Skoleprosjekt\\Skoleproject\\Skoleproject\\Skoleproject.csproj",
+      "projectPath": "C:\\Users\\fredr\\testmappe\\Github-test\\Skoleproject\\Skoleproject.csproj",
       "packagesPath": "C:\\Users\\fredr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fredr\\Skole\\Skoleprosjekt\\Skoleproject\\Skoleproject\\obj\\",
+      "outputPath": "C:\\Users\\fredr\\testmappe\\Github-test\\Skoleproject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

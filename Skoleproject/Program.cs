@@ -9,5 +9,6 @@ class Program
         Console.WriteLine("Konemor!");
         Console.WriteLine("Konemor!");
         Console.WriteLine("Jeg fukkea opp i mergingen!");
+        Console.WriteLine("Rasp er her!!");
     }
 }
